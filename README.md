@@ -1,7 +1,7 @@
 # Code And Create
 ## Hamburger Menu
-- We hide the content outside of the viewport and make it appear with smooth transition.
 ![](./images/readme.png)
+- We hide the content outside of the viewport and make it appear with smooth transition.
 
 ### Overflow:
 ![](./images/overflow.png)
